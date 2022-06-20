@@ -26,4 +26,4 @@ Looking at the results of the analysis there is a large difference in the number
 
 ### Additional Analysis
 
-An additional analysis can be done to run the analysis only on verified purchases to filter out an false positive/negative reviews done by the general public who have not purchased the product being reviewed.
+An additional analysis can be done to run the analysis only on verified purchases to filter out any false positive/negative reviews done by the general public who have not purchased the product being reviewed to further support this analysis.
